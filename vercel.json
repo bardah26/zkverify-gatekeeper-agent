@@ -1,0 +1,1 @@
+{"functions":{"api/index.js":{"includeFiles":"gatekeeper.wasm, gatekeeper_final.zkey, verification_key.json","maxDuration":60}}}

@@ -1,0 +1,1 @@
+{"dependencies":{"snarkjs":"^0.7.6"},"description":"Proof Gatekeeper agent for zkVerify Agent Games (Groth16, snarkjs, Node stdlib HTTP)","engines":{"node":">=18"},"main":"server.js","name":"zkverify-gatekeeper-agent","scripts":{"start":"node server.js","test":"node test-local.js"},"version":"1.0.0"}
